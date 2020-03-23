@@ -1,4 +1,4 @@
-## Javascript-Challenge.
+![](Images/dashboard.JPG)
 
 Background
 
