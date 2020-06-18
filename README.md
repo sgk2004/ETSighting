@@ -9,9 +9,9 @@ Created a table dynamically based upon a dataset provide. Users can filter the t
 
 Folder ET-level-1
 
-HTML web page :          
+HTML web page :[html](https://github.com/sgk2004/ETSighting/blob/master/ET-level-1/index.html)        
                      
-    [html](https://github.com/sgk2004/ETSighting/blob/master/ET-level-1/index.html)
+    
 
 Folder: Static
 
