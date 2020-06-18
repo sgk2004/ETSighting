@@ -9,7 +9,7 @@ Created a table dynamically based upon a dataset provide. Users can filter the t
 
 Folder ET-level-2
 
-Using multiple input tags and/or select dropdowns, [HTML] (https://github.com/sgk2004/ETSighting/blob/master/ET-level-2/bonus.html)and [JavaScript](https://github.com/sgk2004/ETSighting/blob/master/ET-level-2/static/js/app.js) code so the user can to set multiple filters and search for ET sightings using the following criteria based on the table columns:date/time, city, state, country, shape
+Using multiple input tags and/or select dropdowns, [HTML](https://github.com/sgk2004/ETSighting/blob/master/ET-level-2/bonus.html) and [JavaScript](https://github.com/sgk2004/ETSighting/blob/master/ET-level-2/static/js/app.js) code so the user can to set multiple filters and search for ET sightings using the following criteria based on the table columns:date/time, city, state, country, shape
 
 Folder ET-level-1
 
